@@ -1,0 +1,48 @@
+---
+title: "NUMBATs Assemble! Meet the Team"
+format: beamer
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(ggplot2)
+library(knitr)
+```
+
+## Jack Jewson
+
+Senior Lecturer at Monash EBS
+
+. . . 
+
+Did my PhD at the University of Warwick in the UK before an extended post-doc at Universitat Pompeu Fabra in Barcelona.
+
+. . . 
+
+Researching along two themes in Bayesian Statistics:
+
+. . . 
+
+::: {.incremental}
+
+-   *Generalised Bayesian Updating* which replaces log-likelihoods by robust loss functions to improve estimation and decision making
+
+-   *Variable Selection* seeking to estimate structure in data by investigating the presence or absence of certain aspects of the model i.e whether a parameter is non-zero or zero
+
+:::
+
+Other interests include
+
+. . .
+
+::: {.incremental}
+
+-   Playing cricket and watching football (soccer)
+
+-   Cooking (not baking!!)
+
+-   Board games
+
+:::
